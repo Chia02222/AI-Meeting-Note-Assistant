@@ -1,0 +1,8 @@
+{
+  "name": "AI Meeting Note Assistant",
+  "description": "Automatically transcribes meeting audio (simulated) and uses Gemini to summarize the content into concise notes, including action items, discussion highlights, and follow-ups.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
